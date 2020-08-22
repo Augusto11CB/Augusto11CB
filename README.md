@@ -1,7 +1,7 @@
 # Welcome! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-bueno)](https://www.linkedin.com/in/augusto-bueno)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AugustoCalado/the-one-who-knoccks)](https://github.com/AugustoCalado/the-one-who-knoccks)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/the-one-who-knoccks)](https://github.com/the-one-who-knoccks)
 [![Email Badge](https://img.shields.io/badge/-Email-3ABFE6?style=flat-square&logo=minutemailer&logoColor=white&link=mailto:augusto.calado11@gmail.com)](mailto:augusto.calado11@gmail.com)
 
 Hi!, my name is Augusto Calado  and I'm a fullstack developer 🚀
