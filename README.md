@@ -7,7 +7,7 @@
 Nice to meet you! My name is Augusto Calado Bueno and I'm a Software Engineer.
 
  - ⚡ My skills are: Java, Kotlin, Spring, AWS Lambda, SQL, RabbitMQ and Docker.
- - 📚 I'm currently attending a master's degree course in Information Systems at University of São Paulo (USP) as a non-degree student.
+ - 📚 Currently, I'm attending a MBA degree course in Software Engineer at Escola Politécnica of the University of São Paulo (Poli-USP).
  - 🌱 At present, I'm improving my Java skills and learning about software development best practices.
  - ⚡ Cloud Computing enthusiast
  - 📫 Contact me: augusto.calado11@gmail.com
