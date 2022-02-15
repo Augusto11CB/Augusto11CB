@@ -5,6 +5,5 @@
  - 📚 Currently, I'm attending a MBA degree course in Software Engineer at Escola Politécnica of the University of São Paulo (Poli-USP).
  - 🌱 At present, I'm improving my Java skills and learning about software development best practices.
  - ⚡ Cloud Computing enthusiast
- - 📫 Contact me: https://www.linkedin.com/in/augusto-bueno/
 
 
