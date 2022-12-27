@@ -5,8 +5,8 @@
 
 Nice to meet you! My name is Augusto Calado Bueno and I'm a Software Engineer.
 
- - ⚡ My skills are: 
-    - ⚙️💻🔙🔚👨‍💻 **Back-end Development;**
+ - ⚡ **My skills are:** 
+    - **Back-end Development👨‍💻;**  
     - **Languages:** Java☕, Kotlin, JavaScript;
     - **Frameworks:** Spring, Ktor, Quarkus and NodeJS;
     - **Messaging Systems:** RabbitMQ, Apache Kafka, SNS and SQS;
