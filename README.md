@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm aUGUSTO</h1>
+<h1 align="center">Hi 👋, I'm Augusto</h1>
 <h3 align="center">Backend Software Engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=augusto11c&label=Profile%20views&color=0e75b6&style=flat" alt="augusto11c" /> </p>
 
-Nice to meet you! My name is Augusto Calado Bueno and I'm a Software Engineer.
+Nice to meet you!
 
 - 🔭 I’m currently working on Open Finance Brazil @PagSeguro
 
