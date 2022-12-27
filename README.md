@@ -7,7 +7,7 @@ Nice to meet you! My name is Augusto Calado Bueno and I'm a Software Engineer.
 
 - 🔭 I’m currently working on Open Finance Brazil @PagSeguro
 
-- 📚 Currently, I'm attending a Master Degree course in Software Engineer at Escola Politécnica of the University of São Paulo (Poli-USP).
+- 📚 I'm attending a Master Degree course in Software Engineer at Escola Politécnica of the University of São Paulo (Poli-USP).
 
 - 🌱 At present, I'm studying to get the AWS Certificate Developer Associate and Oracle Certificate Java 17.
 
