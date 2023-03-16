@@ -7,7 +7,7 @@ Nice to meet you!
 
 - 🔭 I’m currently working on Open Finance Brazil @PagSeguro.
 
-- 📚 I'm attending a Master Degree course in Software Engineer at Escola Politécnica of the University of São Paulo (Poli-USP).
+- 📚 I have a Bachelor's Degree in Information Systems from the University of São Paulo (USP) and a Master's Degree in Software Engineering from Poli-USP, which I completed in 2023.
 
 - 🌱 At present, I'm studying to get the AWS Certificate Developer Associate and Oracle Certificate Java 17.
 
