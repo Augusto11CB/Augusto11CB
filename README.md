@@ -1,7 +1,2 @@
----
-description: This is a test.
----
+# Page 3
 
-# Test Gitbook
-
-This is a test
